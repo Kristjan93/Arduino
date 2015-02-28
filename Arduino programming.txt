@@ -1,0 +1,29 @@
+Arduino programming
+
+In this project you are supposed to write an Arduino program, as well as connecting various components together, and your solution should do the following:
+
+The Arduino board should be conntected to your computer using a USB cable, but only to ensure it has a power source. Apart from that, your computer will not be involved (except for writing the code!).
+The user shall be able to push a button provided in the kit (Momentary push button switch - http://www.sparkfun.com/products/9190)
+When the button is pushed, the next digit from 0 - 9 should be displayed on the 7-segment LED display. I.e. when the button is first pushed, the LED should display the number 0, the next time it is pushed it should display the number 1, etc. (and when it displays the number 9 and the user presses the button, it should go back to 0).
+Also, the 3-color LED display should show a color according to the following rules:
+
+1 should display red
+2 should display green
+3 should display a combination of red and green
+4 should display blue
+5 should display a combination of red and blue
+6 should display a combination of blue and green
+7 should display a combination of red, green and blue
+
+Other numbers should display no colors whatsoever.
+The grade for finishing this properly is 8.0. You can gain up to 4 extra points (i.e. get 12 in total) by experimenting with the different sensors and gadgets that come with the kit, expecially if you show some creativity. For instance you could:
+
+use the light sensor to create a "sketch" where the user can control the sound coming from the buzzer
+use the SoftPot (http://www.sparkfun.com/products/8680) to control the brightness of a light
+etc. etc., 
+Hand in
+
+Hand in the following:
+
+the code you wrote (as a .txt file or a .pdf)
+a short video demonstrating your project (use your digital camera/smartphone to record a short demonstration). Upload the video to YouTube and include the link to the video in the text file.

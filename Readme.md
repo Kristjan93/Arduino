@@ -20,17 +20,20 @@ There where 2 functionalities configured
   * 6 should display a combination of blue and green
   * 7 should display a combination of red, green and blue
 
-The code associated with this is the file Arduino_Numbers.ino
+  The code associated with this is the file Arduino_Numbers.ino
 
-Watch the awesome result in this video.
+  Watch the awesome result in the video below.
 
 [![Arduino microcontroller board showing numbers on button press](http://img.youtube.com/vi/cLR114N15JA/0.jpg)](http://www.youtube.com/watch?v=cLR114N15JA "ARDUINO counter með ljósi")
 
 2. The robot should utilise input given from the light sensor and interpret it by displaying on the 7-segment LED display the number 1 for bright light and 2 for dim/darkness light.
 
-Watch the less awesome result in this video.
+  Watch the awesome result in the video below.
 
 [![Arduino light sensor](http://img.youtube.com/vi/CAKkQqQdU40/0.jpg)](http://www.youtube.com/watch?v=CAKkQqQdU40 "ARDUINO 1, 2 lightsensor")
 
 ## What I learned
-  * My dreams of creating a young naked robot english german speaking Arnold schwarzenegger are a long way off.
+  * My dreams of creating a young naked robot english/german speaking Arnold schwarzenegger are a long way off.
+
+## Acknowledgments
+  * Hat tip to the Arduino company for making 'robot' programing accessible to the public.

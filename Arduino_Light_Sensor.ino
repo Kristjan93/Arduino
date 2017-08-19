@@ -13,14 +13,12 @@ int portH = 5;
 int portI = 8; 
 int portJ = 12;
 
-
-
 void setup()
 {
   Serial.begin(9600);
   pinMode(10, OUTPUT);
   delay(50);
-  
+
   pinMode(portA, OUTPUT); 
   pinMode(portB, OUTPUT); 
   pinMode(portC, OUTPUT); 
@@ -32,16 +30,14 @@ void setup()
   pinMode(portI, OUTPUT); 
   pinMode(portJ, OUTPUT); 
   digitalWrite(5, HIGH);
-  
-
 }
-  
+
 void loop()
 {
   LDRvalue = analogRead(LDR);
   Serial.println(LDRvalue);
- delay(50);
- 
+  delay(50);
+
  if (LDRvalue < Light_sens)
    {
       digitalWrite(portE, 0);
@@ -65,7 +61,3 @@ void loop()
       digitalWrite(portJ, 0);
   }
 }
-
-       
-    
-

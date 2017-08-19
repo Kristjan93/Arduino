@@ -1,11 +1,11 @@
 # Arduino Robot Programming
 
-> First step in programing a thinking robot with c++ next step Terminator.
+> First step in programming a thinking robot with c++ next step Terminator.
 
 ## Background
 
 Given a simple Arduino microcontroller board with 3 hardware extensions button, 3-color LED display, 7-segment LED display and light sensor my task was to configure the microcontroller board with the extensions and then program in c++ some functionality using those extensions.
-This is One of the first projects that really got me thinking that programing is super cool.
+This is One of the first projects that really got me thinking that programming is super cool.
 
 ## Functionality and Result
 
@@ -36,4 +36,4 @@ There where 2 functionalities configured
   * My dreams of creating a young naked robot english/german speaking Arnold schwarzenegger are a long way off.
 
 ## Acknowledgments
-  * Hat tip to the Arduino company for making 'robot' programing accessible to the public.
+  * Hat tip to the Arduino company for making 'robot' programming accessible to the public.

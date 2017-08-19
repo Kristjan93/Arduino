@@ -4,7 +4,7 @@
 
 ## Background
 
-Given a simple Arduino microcontroller board with 3 hardware extensions button, 3-color LED display, 7-segment LED display and light sensor my task was to configure the microcontroller board with the extensions and then program in c++ some functionality using those extensions.
+Given a simple Arduino microcontroller board with 3 hardware extensions a button, 3-color LED display, 7-segment LED display and light sensor my task was to configure the microcontroller board with the extensions and then program in c++ some functionality using those extensions.
 This is One of the first projects that really got me thinking that programming is super cool.
 
 ## Functionality and Result

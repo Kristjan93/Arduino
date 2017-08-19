@@ -12,7 +12,7 @@ This is One of the first projects that really got me thinking that programing is
 There where 2 functionalities configured 
 
 1. 
-  > Functionality: The robot should display numbers 0-9 on the 7-segment LED display starting at 0,1,2... and change on a button press in a loop.  Additionally numbers 1-7 have an associated color displayed using 3-color LED display:
+The robot should display numbers 0-9 on the 7-segment LED display starting at 0,1,2... and change on a button press in a loop.  Additionally numbers 1-7 have an associated color displayed using 3-color LED display:
   * 1 should display red
   * 2 should display green
   * 3 should display a combination of red and green
@@ -20,7 +20,8 @@ There where 2 functionalities configured
   * 5 should display a combination of red and blue
   * 6 should display a combination of blue and green
   * 7 should display a combination of red, green and blue
-  > Result: [![IMAGE ALT TEXT](http://img.youtube.com/vi/cLR114N15JA/0.jpg)](http://www.youtube.com/watch?v=cLR114N15JA "Video Title")
+Image Result
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/cLR114N15JA/0.jpg)](http://www.youtube.com/watch?v=cLR114N15JA "Video Title")
 ```js
 var goertzel = require('goertzel')
 

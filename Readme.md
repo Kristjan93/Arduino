@@ -26,7 +26,7 @@ There where 2 functionalities configured
 
 [![Arduino microcontroller board showing numbers on button press](http://img.youtube.com/vi/cLR114N15JA/0.jpg)](http://www.youtube.com/watch?v=cLR114N15JA "ARDUINO counter með ljósi")
 
-2. The robot should utilise input given from the light sensor and interpret it by displaying on the 7-segment LED display the number 1 for bright light and 2 for dim/darkness light.
+2. The robot should utilise input given from the light sensor and interpret it by displaying on the 7-segment LED display the number 1 for bright light and 2 for dim light.
   
   The code used for this functionality is the file Arduino_Light_Sensor.ino
   
@@ -35,7 +35,7 @@ There where 2 functionalities configured
 [![Arduino light sensor](http://img.youtube.com/vi/CAKkQqQdU40/0.jpg)](http://www.youtube.com/watch?v=CAKkQqQdU40 "ARDUINO 1, 2 lightsensor")
 
 ## What I learned
-  * My dreams of creating a young naked robot english/german speaking Arnold schwarzenegger are a long way off.
+  * My dreams of creating a young naked english/german speaking Arnold schwarzenegger robot are a long way off.
 
 ## Acknowledgments
-  * Hat tip to the Arduino company for making 'robot' programming accessible to the public.
+  * Hat tip to the Arduino company for making real hardware programming accessible to the public.
